@@ -1,8 +1,8 @@
 {% include header.html %}
 <div class="row">
-    <div class="span12 wrapper">
+    <div class="span12 wrapper no-sidebar">
         <div class="row">
-            <div class="span8">
+            <div class="span12">
                 <div class="content">
                     {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
                     <ul class="inline">
@@ -12,11 +12,6 @@
                     {{ content }}
                     
                     {% include comments.html %}
-                </div>
-            </div>
-            <div class="span4">
-                <div class="sidebar">
-                    {% include sidebar.html %}
                 </div>
             </div>
         </div>
