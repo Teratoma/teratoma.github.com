@@ -4,7 +4,9 @@ body {
 }
 
 .wrapper {
-    background-color: #FFFFFF;
+    width: 982px;
+	padding: 0 10px;
+	background-image: url('http://tech.teratoma.tk/images/wrapper-bg.png');
     border-radius: 4px 4px 4px 4px;
     margin-bottom: 30px;
 }
