@@ -12,7 +12,7 @@ body {
 }
 
 .widget-wrapper {
-    background-color: #F9F9F9;
+    background: url('http://tech.teratoma.tk/images/wrapper-bg.png');
     border: 1px solid #E5E5E5;
     border-radius: 4px 4px 4px 4px;
     margin: 0 0 20px;
