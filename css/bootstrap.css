@@ -518,6 +518,8 @@ a:focus {
   float: right;
 }
 .container {
+  background: url('http://teratoma.github.io/images/wrapper-bg.png');
+  padding: 0 10px 0 10px;
   margin-right: auto;
   margin-left: auto;
   *zoom: 1;
