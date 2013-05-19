@@ -1,9 +1,9 @@
-name: Jekyll Bootstrap Blog
-description: A blog theme for Jekyll using Twitter Bootstrap
+name: Teratomic Technical Journal
+description: Teratomic Technical Journal
 author: Andrew Shell
 
 # Please remove or change to your own from http://disqus.com/
-disqus_shortname: jekyll-bootstrap-blog
+disqus_shortname: 
 
 navigation:
 - text: Home
@@ -29,9 +29,9 @@ url: http://www.jekyll-bootstrap-blog.com
 
 # Folder part of the path to get to your website without trailing slash
 # (ex: /projectname)
-baseurl:
+baseurl: 
 
-githuburl: https://github.com/andrewshell/jekyll-bootstrap-blog
+githuburl: 
 
 auto: true
 safe: true
