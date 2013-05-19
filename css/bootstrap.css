@@ -517,9 +517,19 @@ a:focus {
 .row-fluid [class*="span"].pull-right {
   float: right;
 }
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
 .container {
   background: url('http://teratoma.github.io/images/wrapper-bg.png');
-  padding: 0 34px 0 10px;
+  height: auto !important; /* ie6 ignores !important, so this will be overridden below */
+    min-height: 100%; /* ie6 ignores min-height completely */
+    height: 100%;
+	padding: 0 34px 0 10px;
   margin-right: auto;
   margin-left: auto;
   *zoom: 1;
