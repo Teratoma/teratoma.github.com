@@ -525,7 +525,7 @@ html, body {
 }
 
 .container {
-  background: url('http://teratoma.github.io/images/wrapper-bg.png');
+  background: url('http://teratoma.github.io/images/wrapper-bg.png') fixed;
   height: auto !important; /* ie6 ignores !important, so this will be overridden below */
     min-height: 100%; /* ie6 ignores min-height completely */
     height: 100%;
