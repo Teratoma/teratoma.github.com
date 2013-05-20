@@ -17,14 +17,14 @@
 {% for post in site.posts limit:10 %}
     <li><a href="{{ site.baseurl }}{{post.url}}">{{ post.title }}</a></li>
 {% endfor %}
-{% for post in site.posts %}
+<h3 class="widget-title">Archive</h3>{% for post in site.posts %}
     {% capture next %}{{ post.date | date: "%B %Y" }}{% endcapture %}
     {% if next != current %}
         <li><a href="{{ site.baseurl }}/archive.html#{{ post.date | date: "%B%Y" }}">{{ next }}</a></li>
         {% assign current = next %}
     {% endif %}
 {% endfor %}
- {% if site.categories.first[0] == null %}
+ <h3 class="widget-title">Categories</h3>{% if site.categories.first[0] == null %}
     {% for category in site.categories %}
      <li><a href="{{ site.baseurl }}/categories.html#{{ category }}-ref">
      {{ category | join: "/" }} <span>{{ site.categories[category].size }}</span>
