@@ -34,7 +34,7 @@ body {
 }
 
 .sidebar {
-    float: left;
+    float: right;
 	width: 250px;
 	margin: 40px 20px 20px 0;
 }
@@ -44,7 +44,9 @@ body {
 }
 
 .sidebar-left .sidebar {
-    margin: 40px 0 20px 20px;
+    width: 250px;
+	float: left;
+	margin: 40px 0 20px 20px;
 }
 
 .no-sidebar .content {
