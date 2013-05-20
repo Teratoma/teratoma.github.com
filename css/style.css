@@ -34,7 +34,7 @@ body {
 }
 
 .sidebar {
-    float: right;
+    float: left;
 	width: 250px;
 	margin: 40px 20px 20px 0;
 }
