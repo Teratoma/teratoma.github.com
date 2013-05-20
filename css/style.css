@@ -74,3 +74,7 @@ body {
         margin: 40px 20px 20px 20px;
     }
 }
+
+.footerbox {
+background: url('http://teratoma.github.io/images/wrapper-bg.png');
+width: 1170px;}
