@@ -108,10 +108,10 @@ I've been obsessively tweaking it and adding things here and there, cleaning it 
 To install this theme:
 
 1. copy the code available above.
-2. go to your Tumblr blog and click ‘Customize’ in the upper right
-3. click ‘Edit HTML’ on the left.
+2. go to your Tumblr blog and click 'Customize' in the upper right
+3. click 'Edit HTML' on the left.
 4. delete the existing code and paste the new one in the editor.
-5. click ‘Update Preview’, then ‘Save’ and you’re done!
+5. click 'Update Preview', then 'Save' and you're done!
 
 Regularly updated - follow and check back for new features!
 
