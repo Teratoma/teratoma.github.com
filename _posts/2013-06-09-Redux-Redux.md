@@ -4,7 +4,7 @@ title: Redux Redux - A Tumblr them based on Redux
 author: Teratoma
 category: posts
 ---
-<p style="text-align: center;">
+
 			<a href="http://dl.dropbox.com/s/l1t4v55sohzj36s/splash.png"><img alt="Click for full-size image..." src="http://dl.dropbox.com/s/l1t4v55sohzj36s/splash.png" style="width: 700px; height: 330px; margin: 0px;" /></a></p>
 		<p>
 			One of the main reasons I created this site is because I was using Github to host the code for my Tumblr theme.</p>
