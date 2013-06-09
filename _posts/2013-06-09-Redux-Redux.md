@@ -102,17 +102,17 @@ I've been obsessively tweaking it and adding things here and there, cleaning it 
 				</tbody>
 			</table>
 		</center>
-		<p style="text-align: left;">
-			<a href="http://t.teratoma.tk/reduxredux">Install</a></p>
-		<p style="text-align: left;">
-			To install this theme:</p>
-		<p style="text-align: left;">
-			1. copy the code available above.<br />
-			2. go to your Tumblr blog and click &lsquo;Customize&rsquo; in the upper right<br />
-			3. click &lsquo;Edit HTML&rsquo; on the left.<br />
-			4. delete the existing code and paste the new one in the editor.<br />
-			5. click &lsquo;Update Preview&rsquo;, then &lsquo;Save&rsquo; and you&rsquo;re done!</p>
-		<p style="text-align: left;">
-			Regularly updated - follow and check back for new features!</p>
-		<p style="text-align: left;">
-			Thanks for checking out Redux Redux!</p>
+
+<a href="http://t.teratoma.tk/reduxredux">Install</a>
+
+To install this theme:
+
+1. copy the code available above.
+2. go to your Tumblr blog and click ‘Customize’ in the upper right
+3. click ‘Edit HTML’ on the left.
+4. delete the existing code and paste the new one in the editor.
+5. click ‘Update Preview’, then ‘Save’ and you’re done!
+
+Regularly updated - follow and check back for new features!
+
+Thanks for checking out Redux Redux!
