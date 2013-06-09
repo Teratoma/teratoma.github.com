@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Redux Redux - A Tumblr them based on Redux
+title: Redux Redux - A Tumblr theme based on Redux
 author: Teratoma
 category: posts
 ---
